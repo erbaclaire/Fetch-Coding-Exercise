@@ -1,0 +1,34 @@
+,category,categoryCode,categoryId
+0,Baby,BABY,1
+1,Baby,,2
+2,Baking,BAKING,3
+3,Baking,,4
+4,Beauty,,5
+5,Beauty & Personal Care,,6
+6,Beer Wine Spirits,BEER_WINE_SPIRITS,7
+7,Beer Wine Spirits,,8
+8,Beverages,,9
+9,Beverages,BEVERAGES,10
+10,Bread & Bakery,BREAD_AND_BAKERY,11
+11,Breakfast & Cereal,,12
+12,Candy & Sweets,CANDY_AND_SWEETS,13
+13,Canned Goods & Soups,,14
+14,Cleaning & Home Improvement,CLEANING_AND_HOME_IMPROVEMENT,15
+15,Condiments & Sauces,,16
+16,Dairy,,17
+17,Dairy & Refrigerated,DAIRY_AND_REFRIGERATED,18
+18,Deli,,19
+19,Frozen,,20
+20,Frozen,FROZEN,21
+21,Grocery,GROCERY,22
+22,Grocery,,23
+23,Health & Wellness,,24
+24,Health & Wellness,HEALTHY_AND_WELLNESS,25
+25,Household,,26
+26,Magazines,,27
+27,Magazines,MAGAZINES,28
+28,Outdoor,OUTDOOR,29
+29,Personal Care,,30
+30,Personal Care,PERSONAL_CARE,31
+31,Snacks,,32
+32,,,33

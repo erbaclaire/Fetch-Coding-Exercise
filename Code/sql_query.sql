@@ -6,6 +6,6 @@ FROM Receipts
 LEFT JOIN (SELECT COUNT(*) AS totalItemsPurchased 
 	       FROM ReceiptItems
            GROUP BY _id) AS ReceiptItems
-ON Receipt._id = ReceiptItems._id
+ON Receipt._id = ReceiptItems.receiptId
 WHERE rewardsReceiptStatus IN ('Accepted', 'Rejected')
 GROUP BY rewardsReceiptStatus;
